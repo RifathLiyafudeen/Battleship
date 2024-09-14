@@ -1,0 +1,10 @@
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\bin\Debug\BattleshipConsoleApp.exe.config
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\bin\Debug\BattleshipConsoleApp.exe
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\bin\Debug\BattleshipConsoleApp.pdb
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\bin\Debug\Newtonsoft.Json.dll
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\bin\Debug\Newtonsoft.Json.xml
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\obj\Debug\BattleshipConsoleApp.csproj.AssemblyReference.cache
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\obj\Debug\BattleshipConsoleApp.csproj.CoreCompileInputs.cache
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\obj\Debug\BattleshipConsoleApp.csproj.CopyComplete
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\obj\Debug\BattleshipConsoleApp.exe
+D:\Battleship game assignmen\BattleshipGame\BattleshipConsoleApp\obj\Debug\BattleshipConsoleApp.pdb
